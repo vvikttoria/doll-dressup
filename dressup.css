@@ -1,0 +1,86 @@
+
+body{
+	background-color: 	#FFFFFF;
+  font-family: "Times New Roman", serif;
+}
+
+
+
+img {
+	position: absolute;
+	margin-left: 15%;
+display:inline-block;
+  height:100%;
+}
+
+
+button{
+  margin-top:20%;
+}
+
+ul{
+	list-style-type: none;
+	display:inline-block;
+}
+
+
+character{
+z-index: -1000;   
+}
+
+.eyes{
+	visibility:hidden;
+	z-index: 1;
+}
+
+.mouth{
+	visibility:hidden;
+	z-index: 1;
+}
+
+.hair{
+	visibility:hidden;
+  z-index: 2;
+	}
+	
+.shirt{
+	visibility:hidden;
+  z-index: 4;
+}
+
+.pant{
+	visibility:hidden;
+  z-index: 3;
+	}
+
+.shoes{
+	visibility:hidden;
+	z-index: 2;
+}
+
+.accessories{
+	visibility:hidden;
+	z-index: 1;
+}
+
+.background{
+	visibility:hidden;
+	z-index: -1001;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
